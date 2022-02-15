@@ -29,23 +29,3 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Q3,2017,21800,Automatic,19319,Petrol,145,40.4,2
  A6,2017,16200,Manual,22582,Diesel,145,61.4,2
  A5,2017,18700,Manual,20052,Petrol,145,49.6,2
- Q3,2016,16100,Manual,16666,Diesel,30,60.1,2
- A3,2016,11300,Manual,25626,Diesel,0,74.3,1.6
- A3,2016,14100,Manual,10460,Petrol,20,60.1,1.4
- A6,2016,16600,Automatic,43307,Diesel,125,57.6,2
- A1,2017,11300,Manual,29327,Petrol,30,55.4,1.4
- Q3,2017,15600,Manual,36714,Petrol,125,51.4,1.4
- A1,2014,10000,Manual,28324,Petrol,125,53.3,1.4
- A1,2016,14500,Manual,12100,Petrol,30,56.5,1.4
- Q3,2017,16100,Manual,18001,Diesel,145,62.8,2
- A1,2016,10600,Manual,28760,Petrol,30,55.4,1.4
- A3,2019,25499,Semi-Auto,4000,Petrol,145,44.1,1.5
- Q2,2019,25499,Semi-Auto,7897,Diesel,145,47.9,2
- A6,2016,15500,Automatic,24744,Diesel,125,56.5,3
- Q3,2015,16200,Automatic,30075,Diesel,160,51.4,2
- A1,2017,14000,Manual,12577,Petrol,30,58.9,1.4
- A6,2016,17300,Automatic,24421,Diesel,30,61.4,2
- A1,2016,10600,Manual,15567,Diesel,0,76.3,1.6
- A4,2018,17500,Manual,15207,Petrol,145,51.4,1.4
- A4,2017,15000,Manual,14864,Petrol,145,52.3,1.4
- A4,2019,25499,Semi-Auto,9000,Petrol,145,38.7,2
