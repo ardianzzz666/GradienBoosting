@@ -1,0 +1,6 @@
+model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
+ A4,2016,12750,Manual,52561,Diesel,0,74.3,2
+ A6,2015,13000,Automatic,31604,Diesel,20,67.3,2
+ Q3,2016,15900,Manual,32011,Petrol,145,49.6,1.4
+ Q3,2016,15000,Manual,39134,Diesel,30,60.1,2
+ Q5,2015,14700,Automatic,89483,Diesel,205,47.1,2
